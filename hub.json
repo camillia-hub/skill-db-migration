@@ -1,0 +1,1 @@
+{"name": "DB Migration", "slug": "skill-db-migration", "kind": "skill", "description": "Authors and verifies EF Core, Prisma, and Flyway migrations with forward/rollback pairs and destructive-change safety checks.", "version": "1.0.0", "priceMinor": 0, "currency": "USD", "contentDir": "skill"}
