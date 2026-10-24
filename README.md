@@ -11,13 +11,13 @@ A Camillia skill that authors and verifies database migrations across EF Core, P
 
 ## Install
 
-Install from the Camillia Community Hub. After installation the skill lives in the workspace under `.workspace/skills/skill-db-migration/` and the agent applies it whenever you create or review a migration.
+Install from the Camillia Community Hub. After installation the skill lives in the workspace under `.workspace/extensions/db-migration/` and the agent applies it whenever you create or review a migration.
 
 ## Contents
 
-- `skill/SKILL.md` - the procedure the agent follows
-- `skill/naming-examples.md` - naming conventions and forward/rollback pairs per stack
-- `skill/destructive-change-checklist.md` - operation classification table
+- `extensions/db-migration/SKILL.md` - the procedure the agent follows
+- `extensions/db-migration/naming-examples.md` - naming conventions and forward/rollback pairs per stack
+- `extensions/db-migration/destructive-change-checklist.md` - operation classification table
 
 ## Validate
 
